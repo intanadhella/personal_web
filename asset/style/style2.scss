@@ -1,0 +1,38 @@
+body {
+    background: url(../img/bg.jpg) no-repeat;
+    background-size: cover;
+}
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+
+    h1 {
+        font-size: 40px;
+        letter-spacing: 4px;
+        font-weight: normal;
+    }
+    h5 {
+        font-size: 20px;
+        letter-spacing: 3px;
+        font-weight: normal;
+    }
+    p {
+        text-align: justify;
+    }
+    li {
+        list-style: none;
+        display: inline-block;
+        margin: 6px;
+    }
+}
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
