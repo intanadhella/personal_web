@@ -41,3 +41,11 @@ body {
     display: inline-block;
     margin: 6px;
 }
+
+.hover {
+    color: black;
+}
+
+.hover:hover{
+    color: blanchedalmond;
+}
